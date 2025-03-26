@@ -1,0 +1,14 @@
+# Hi there! I'm Aradhana Pagadala 👋
+
+## About Me
+- 🌟 Software Developer
+- 🎓 Computer Science Major
+- 💻 Passionate about AI, Cybersecurity, and Molecular Biology
+
+## 🚀 Skills
+- Programming Languages: Python, JavaScript, SQL, HTML, Bash, R
+- Frameworks: React, Django
+- Tools: Git, Replit
+
+## 🔗 Connect with Me
+[LinkedIn] www.linkedin.com/in/aradhana-pagadala-b17889357
