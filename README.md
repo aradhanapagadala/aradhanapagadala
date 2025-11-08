@@ -3,12 +3,12 @@
 ## About Me
 - 🌟 Software Developer
 - 🎓 Computer Science Major
-- 💻 Passionate about AI, Cybersecurity, and Molecular Biology
+- 💻 Passionate about Software Development, Data Analysis
 
 ## 🚀 Skills
-- Programming Languages: Python, JavaScript, SQL, HTML, Bash, R
-- Frameworks: React, Django
-- Tools: Git, Replit
+- Programming Languages: Python, C++, c#
+- Frameworks: .NET
+- Tools: Git, Visual Studio
 
 ## 🔗 Connect with Me
 [LinkedIn] www.linkedin.com/in/aradhana-pagadala-b17889357
